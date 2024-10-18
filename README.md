@@ -1,6 +1,7 @@
 # package_name
 
 Description. 
+Sistema Bancário em Python em POO
 The package package_name is used to:
 	- 
 	-
@@ -21,7 +22,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Alesandro Domingos
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
